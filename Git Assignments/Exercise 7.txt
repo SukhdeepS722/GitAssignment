@@ -1,0 +1,4 @@
+Reset previous commit
+
+C:\Users\Sukhd>cd Exercise 7
+The system cannot find the path specified.

@@ -1,0 +1,6 @@
+git ignore file
+
+.exe
+.o
+.jar
+dir1/

@@ -1,0 +1,1 @@
+Hello, I am writing a file for exercise 3 and creating an index.html file as well
